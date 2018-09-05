@@ -1,4 +1,4 @@
-- Please readme, before use that apps -
+- Please readme, before use that apps
 
 
 
